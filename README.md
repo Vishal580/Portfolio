@@ -95,5 +95,4 @@ Copyright © 2026 Vishal. All rights reserved.
 
 ---
 
-*Built with ❤️ by Vishal Khetriba*</content>
-<parameter name="filePath">d:\portfolio-main\README.md
+*Built with ❤️ by Vishal*
